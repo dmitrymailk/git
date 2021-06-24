@@ -8,6 +8,11 @@ int main()
   return 0;
 }
 
+int some_new_func_2()
+{
+  return 1;
+}
+
 int function(int *num)
 {
   num = 10;
