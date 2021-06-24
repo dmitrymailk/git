@@ -8,7 +8,6 @@ int main()
   return 0;
 }
 
-
 int function(int *num)
 {
   num = 10;
@@ -18,4 +17,9 @@ int function(int *num)
 int main()
 {
   int num = 20;
+}
+
+int some_new_func()
+{
+  return 1234;
 }
