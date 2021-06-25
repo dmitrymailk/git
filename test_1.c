@@ -28,3 +28,8 @@ int some_new_func()
 {
   return 1234;
 }
+
+float return_float()
+{
+  return 1.0;
+}
