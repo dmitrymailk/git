@@ -38,3 +38,5 @@ int new_func_3()
 {
   return 123;
 }
+
+// some body was told me
