@@ -33,3 +33,8 @@ float return_float()
 {
   return 1.0;
 }
+
+int new_func_3()
+{
+  return 123;
+}
