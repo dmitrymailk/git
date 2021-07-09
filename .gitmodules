@@ -1,0 +1,3 @@
+[submodule "ReactCourse"]
+	path = ReactCourse
+	url = https://github.com/dmitrymailk/ReactCourse
